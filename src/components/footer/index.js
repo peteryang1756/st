@@ -28,7 +28,7 @@ export default () => (
       rel="noopener"
       target="_blank"
     >
-      Powered by Issue Status
+    雙龍體育status
     </Branding>
   </Footer>
 );
