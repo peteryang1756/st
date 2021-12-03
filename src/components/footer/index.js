@@ -1,4 +1,4 @@
-import React from "react";
+1import React from "react";
 import styled from "styled-components";
 
 const Footer = styled.div`
@@ -28,7 +28,7 @@ export default () => (
       rel="noopener"
       target="_blank"
     >
-    雙龍體育status
+    雙龍體育
     </Branding>
   </Footer>
 );
