@@ -1,6 +1,6 @@
 export default {
   operational: {
-    name: "Operational",
+    名稱: "操作",
     colour: "#247234",
     backgroundColour: "rgba(61, 167, 81, 0.1)",
   },
